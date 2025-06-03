@@ -83,7 +83,6 @@
 
 ### 🖼️ System Overview
 
-> Replace the placeholders with real image links by uploading them using GitHub's drag-and-drop or issue method.
 
 **Figure 1**  
 Login Page  
